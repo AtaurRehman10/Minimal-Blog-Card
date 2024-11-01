@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Sora:wght@100..800&display=swap');
+*{
+     margin: 0;
+     padding: 0;
+     box-sizing: border-box;
+     background-color: #FAFAF9;
+     font-family: "Sora", sans-serif;
+     ;
+     
+}
+.Container{
+     width: 430px;
+     height: 440px;
+     position: absolute;
+     top: 50%;
+     left: 50%;
+     transform: translate(-50%, -50%); 
+     border-radius: 20px;
+     background-color:#ffffff ;
+
+}
+img{
+     width: 380px;
+     height: 180px;
+     border-radius: 20px;
+}
+.btn{
+     display: block;
+     border: none;
+     padding: 5px 23px;
+     border-radius: 20px; 
+     font-weight: 600;
+     margin: 15px 0;
+     color: #883AE1;
+     background-color: #E6D6FC;
+}
+.inner_container{
+     width: 380px;
+     height: 180px;
+     margin:23px ;
+
+}
+.heading{
+     font-weight: 500;
+     margin: 10px 0;
+}
+.text{
+     color: #6C727F;
+     margin-bottom: 20px;
+     font-weight: 300;
+     background-color:#ffffff ;
+
+}
+.word{
+     color: #6C727F;
+border-top: 1px solid #d0d1d4 ;
+padding-top: 15px;
+background-color:#ffffff ;
+
+
+}
